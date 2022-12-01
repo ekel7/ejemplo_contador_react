@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
      <Navbar gato={array}  perro="perritos"  ave="avecita"  venado="venadito"/>
-     <ItemListContainer bienvenida="Holaaa! Bienvenida!"/>
+     <ItemListContainer bienvenida="Holaaa! Bienvenido!"/>
     </div>
 
   );
